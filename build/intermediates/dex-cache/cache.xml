@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/pre-dexed/debug/classes-ee1fabd6a9bde56017307d1ea9fa230d02df4e93.jar" />
+    </item>
+    <item
+        jar="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/pre-dexed/debug/classes-a5072ff6c73efad0405318bf7386e06bbddd62ff.jar" />
+    </item>
+    <item
+        jar="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/pre-dexed/debug/classes-0bea493de6280420df25bf0726e31f88756f95c8.jar" />
+    </item>
+    <item
+        jar="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/pre-dexed/debug/classes-1a5680afc09d318aef5f53b891a24ca6e229c2fe.jar" />
+    </item>
+    <item
+        jar="/home/inheritx/Manish/projects/adt-bundle/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-92de2563298622ca6f334e9f9b14d4677d6771fb.jar" />
+    </item>
+    <item
+        jar="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/inheritx/Manish/Emails/download/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-84a6bb5fd9d86b3d49344fa2d2d638be012074e5.jar" />
+    </item>
+
+</items>
